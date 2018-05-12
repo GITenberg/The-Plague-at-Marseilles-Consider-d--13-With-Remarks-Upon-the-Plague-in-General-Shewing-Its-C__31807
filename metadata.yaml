@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2400
     wikipedia: http://en.wikipedia.org/wiki/Richard_Bradley_(botanist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31807#The-Plague-at-Marseilles-Consider-d--13-With-Remarks-Upon-the-Plague-in-General-Shewing-Its-C_
 gutenberg_issued: '2010-03-28'
 gutenberg_type: Text
 identifiers:
