@@ -1,0 +1,33 @@
+_repo: The-Plague-at-Marseilles-Consider-d--13-With-Remarks-Upon-the-Plague-in-General-Shewing-Its-C__31807
+_version: 0.1.0
+alternative_title: The Plague at Marseilles Considered
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bradley, Richard
+    alias: Bradley, R. (Richard)
+    birthdate: 1688
+    deathdate: 1732
+    gutenberg_agent_id: '2400'
+    url: http://www.gutenberg.org/2009/agents/2400
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Bradley_(botanist)
+description: ''
+gutenberg_issued: '2010-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31807'
+  lccn: '18006627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- France -- Marseille -- Early works to 1800'
+- !lcc 'RC'
+- !lcsh 'Plague -- England -- London -- Early works to 1800'
+title: "The Plague at Marseilles Consider'd\r\nWith Remarks Upon the Plague in General,\
+  \ Shewing Its Cause and Nature of Infection, with Necessary Precautions to Prevent\
+  \ the Speading of That Direful Distemper"
+url: http://www.gutenberg.org/ebooks/31807
